@@ -31,7 +31,8 @@ EMBEDDED_DATA = """tds_ppm,turbidity_ntu,label
 310,2.5,Good
 350,3.0,Good
 400,3.5,Good
-420,4.0,Fair
+400,4.0,Good
+420,5.0,Fair
 500,5.0,Fair
 550,6.0,Fair
 600,7.0,Fair
