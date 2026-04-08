@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.vscode/
+serviceAccountKey.json
+*.pkl
+venv/
+env/
+.DS_Store
